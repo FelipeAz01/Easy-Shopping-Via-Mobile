@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h3> Este é o meu segundo projeto criado atraves do curso DevClub com referencia pelo figma. </h3>
+<h3> Este é o meu terceiro projeto criado atraves do curso DevClub com referencia pelo figma. </h3>
 
 <h5> *testando a responsividade* </h5>
 
