@@ -128,7 +128,8 @@ header {
 
 img {
     position: static;
-    max-width: 90%;
+    max-width: 60%;
+    margin: 50px 50px 0 50px
 }
 
 header {
@@ -164,7 +165,6 @@ button {
 
 @media screen and (max-width:450px) {
    
-    
     .container-right {
         display: block;
         height: auto;
